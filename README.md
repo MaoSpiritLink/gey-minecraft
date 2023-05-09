@@ -16,3 +16,12 @@ To enable Ressource Packs go to
 About illuminations: The *illuminations/picelsaccurate* is optional. If you want illuminations with lower resolution (because of performance issues) then choose *illuminations/lowerres* instead.
 
 ![image](ressourcepacks.png)
+
+# Memory
+When you have memory problems maybe allocate more RAM by changing the JVM parameter **-Xmx8G**
+## Without Launcher
+![image](memory.png)
+
+## Launcher: Curseforge
+![image](memory_curseforge1.png)
+![image](memory_curseforge2.png)
