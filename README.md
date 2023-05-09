@@ -18,7 +18,8 @@ About illuminations: The *illuminations/picelsaccurate* is optional. If you want
 ![image](ressourcepacks.png)
 
 # Memory
-When you have memory problems maybe allocate more RAM by changing the JVM parameter **-Xmx8G**
+If you have memory problems maybe allocate more RAM by changing the JVM parameter **-Xmx8G**
+
 ## Without Launcher
 ![image](memory.png)
 
